@@ -78,7 +78,10 @@ JSON
   }
 }
 
-
+Задание 3 
+Архитектура отправки PUSH уведомлений
+Изображение по сыылке на диске: https://disk.yandex.ru/d/VGD1xjhz-XSD0Q
+<img width="1150" height="849" alt="архитектура обмена данными при push уведомлениях drawio" src="https://github.com/user-attachments/assets/44657c45-d62e-499a-a826-25f47ad1bc4a" />
 
 
 
